@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MahApps.Basic.Properties
+namespace Fonts.IncludeFiles.NetFramework.Properties
 {
 
 
